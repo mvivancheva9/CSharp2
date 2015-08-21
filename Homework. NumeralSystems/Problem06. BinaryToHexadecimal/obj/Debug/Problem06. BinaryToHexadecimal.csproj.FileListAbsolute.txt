@@ -1,0 +1,5 @@
+E:\C# 2\Homework. NumeralSystems\Problem06. BinaryToHexadecimal\bin\Debug\Problem06.BinaryToHexadecimal.exe.config
+E:\C# 2\Homework. NumeralSystems\Problem06. BinaryToHexadecimal\bin\Debug\Problem06.BinaryToHexadecimal.exe
+E:\C# 2\Homework. NumeralSystems\Problem06. BinaryToHexadecimal\bin\Debug\Problem06.BinaryToHexadecimal.pdb
+E:\C# 2\Homework. NumeralSystems\Problem06. BinaryToHexadecimal\obj\Debug\Problem06.BinaryToHexadecimal.exe
+E:\C# 2\Homework. NumeralSystems\Problem06. BinaryToHexadecimal\obj\Debug\Problem06.BinaryToHexadecimal.pdb

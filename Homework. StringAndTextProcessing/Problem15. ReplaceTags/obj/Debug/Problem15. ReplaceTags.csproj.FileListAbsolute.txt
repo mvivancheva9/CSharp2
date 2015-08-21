@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem15. ReplaceTags\bin\Debug\Problem15.ReplaceTags.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem15. ReplaceTags\bin\Debug\Problem15.ReplaceTags.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem15. ReplaceTags\bin\Debug\Problem15.ReplaceTags.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem15. ReplaceTags\obj\Debug\Problem15. ReplaceTags.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. StringAndTextProcessing\Problem15. ReplaceTags\obj\Debug\Problem15.ReplaceTags.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem15. ReplaceTags\obj\Debug\Problem15.ReplaceTags.pdb

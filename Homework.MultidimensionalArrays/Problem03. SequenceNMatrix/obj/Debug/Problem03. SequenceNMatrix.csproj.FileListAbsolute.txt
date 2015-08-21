@@ -1,0 +1,6 @@
+E:\C# 2\Homework.MultidimensionalArrays\Problem03. SequenceNMatrix\bin\Debug\Problem03.SequenceNMatrix.exe.config
+E:\C# 2\Homework.MultidimensionalArrays\Problem03. SequenceNMatrix\bin\Debug\Problem03.SequenceNMatrix.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem03. SequenceNMatrix\bin\Debug\Problem03.SequenceNMatrix.pdb
+E:\C# 2\Homework.MultidimensionalArrays\Problem03. SequenceNMatrix\obj\Debug\Problem03. SequenceNMatrix.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework.MultidimensionalArrays\Problem03. SequenceNMatrix\obj\Debug\Problem03.SequenceNMatrix.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem03. SequenceNMatrix\obj\Debug\Problem03.SequenceNMatrix.pdb

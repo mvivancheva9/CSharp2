@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem18. ExtractEmails\bin\Debug\Problem18.ExtractEmails.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem18. ExtractEmails\bin\Debug\Problem18.ExtractEmails.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem18. ExtractEmails\bin\Debug\Problem18.ExtractEmails.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem18. ExtractEmails\obj\Debug\Problem18. ExtractEmails.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. StringAndTextProcessing\Problem18. ExtractEmails\obj\Debug\Problem18.ExtractEmails.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem18. ExtractEmails\obj\Debug\Problem18.ExtractEmails.pdb

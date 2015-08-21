@@ -1,0 +1,20 @@
+Describe the strings in C#
+		Strings are sequences of characters, where each character is a Unicode symbol. 
+		Their objects contain an immutable (read-only) sequence of characters. 
+
+What is typical for the string data type?
+		The string data can include numbers and other numerical symbols but will be treated as text.
+		Strings can be compared
+		They can be concatenated
+		Searching in strings is possible, as well, etc.
+		
+Describe the most important methods of the String class.
+		Compare - Compares Strings
+		Concat - Concatenates Strings
+		IndexOf - gets the index of the first occurrence of an element
+		LastIndexOf - gets the index of the last occurrence of an element
+		Split - Returns a string array that contains the substrings in this instance that are delimited by elements of a specified Unicode character array.
+		Substring - Retrieves a substring from an instance.
+		ToLower() - Returns a copy of this string converted to lowercase.
+		ToUpper() - Returns a copy of this string converted to uppercase.
+		

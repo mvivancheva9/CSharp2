@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem02. ReverseString\bin\Debug\Problem02.ReverseString.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem02. ReverseString\bin\Debug\Problem02.ReverseString.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem02. ReverseString\bin\Debug\Problem02.ReverseString.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem02. ReverseString\obj\Debug\Problem02. ReverseString.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. StringAndTextProcessing\Problem02. ReverseString\obj\Debug\Problem02.ReverseString.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem02. ReverseString\obj\Debug\Problem02.ReverseString.pdb

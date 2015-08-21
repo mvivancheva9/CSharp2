@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem20. Palindromes\bin\Debug\Problem20.Palindromes.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem20. Palindromes\bin\Debug\Problem20.Palindromes.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem20. Palindromes\bin\Debug\Problem20.Palindromes.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem20. Palindromes\obj\Debug\Problem20.Palindromes.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem20. Palindromes\obj\Debug\Problem20.Palindromes.pdb

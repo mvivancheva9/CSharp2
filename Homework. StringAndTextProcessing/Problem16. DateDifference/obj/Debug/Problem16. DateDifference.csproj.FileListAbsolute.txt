@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem16. DateDifference\bin\Debug\Problem16.DateDifference.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem16. DateDifference\bin\Debug\Problem16.DateDifference.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem16. DateDifference\bin\Debug\Problem16.DateDifference.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem16. DateDifference\obj\Debug\Problem16.DateDifference.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem16. DateDifference\obj\Debug\Problem16.DateDifference.pdb

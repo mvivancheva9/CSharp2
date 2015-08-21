@@ -1,0 +1,5 @@
+E:\C# 2\Homework. UsingClassesAndObjects\Problem02. RandomNumbers\bin\Debug\Problem02.RandomNumbers.exe.config
+E:\C# 2\Homework. UsingClassesAndObjects\Problem02. RandomNumbers\bin\Debug\Problem02.RandomNumbers.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem02. RandomNumbers\bin\Debug\Problem02.RandomNumbers.pdb
+E:\C# 2\Homework. UsingClassesAndObjects\Problem02. RandomNumbers\obj\Debug\Problem02.RandomNumbers.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem02. RandomNumbers\obj\Debug\Problem02.RandomNumbers.pdb

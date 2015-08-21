@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Text Files\Problem11. PrefixTest\bin\Debug\Problem11.PrefixTest.exe.config
+E:\C# 2\Homework. Text Files\Problem11. PrefixTest\bin\Debug\Problem11.PrefixTest.exe
+E:\C# 2\Homework. Text Files\Problem11. PrefixTest\bin\Debug\Problem11.PrefixTest.pdb
+E:\C# 2\Homework. Text Files\Problem11. PrefixTest\obj\Debug\Problem11. PrefixTest.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Text Files\Problem11. PrefixTest\obj\Debug\Problem11.PrefixTest.exe
+E:\C# 2\Homework. Text Files\Problem11. PrefixTest\obj\Debug\Problem11.PrefixTest.pdb

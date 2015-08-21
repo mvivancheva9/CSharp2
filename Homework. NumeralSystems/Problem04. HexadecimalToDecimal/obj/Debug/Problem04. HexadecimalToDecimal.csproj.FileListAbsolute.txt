@@ -1,0 +1,5 @@
+E:\C# 2\Homework. NumeralSystems\Problem04. HexadecimalToDecimal\bin\Debug\Problem04.HexadecimalToDecimal.exe.config
+E:\C# 2\Homework. NumeralSystems\Problem04. HexadecimalToDecimal\bin\Debug\Problem04.HexadecimalToDecimal.exe
+E:\C# 2\Homework. NumeralSystems\Problem04. HexadecimalToDecimal\bin\Debug\Problem04.HexadecimalToDecimal.pdb
+E:\C# 2\Homework. NumeralSystems\Problem04. HexadecimalToDecimal\obj\Debug\Problem04.HexadecimalToDecimal.exe
+E:\C# 2\Homework. NumeralSystems\Problem04. HexadecimalToDecimal\obj\Debug\Problem04.HexadecimalToDecimal.pdb

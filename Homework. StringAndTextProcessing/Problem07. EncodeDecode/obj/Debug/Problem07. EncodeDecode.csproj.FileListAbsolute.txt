@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem07. EncodeDecode\bin\Debug\Problem07.EncodeDecode.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem07. EncodeDecode\bin\Debug\Problem07.EncodeDecode.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem07. EncodeDecode\bin\Debug\Problem07.EncodeDecode.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem07. EncodeDecode\obj\Debug\Problem07.EncodeDecode.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem07. EncodeDecode\obj\Debug\Problem07.EncodeDecode.pdb

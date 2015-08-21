@@ -1,0 +1,5 @@
+E:\C# 2\Homework. Text Files\Problem08. Replace whole word\bin\Debug\Problem08.Replace_whole_word.exe.config
+E:\C# 2\Homework. Text Files\Problem08. Replace whole word\bin\Debug\Problem08.Replace_whole_word.exe
+E:\C# 2\Homework. Text Files\Problem08. Replace whole word\bin\Debug\Problem08.Replace_whole_word.pdb
+E:\C# 2\Homework. Text Files\Problem08. Replace whole word\obj\Debug\Problem08.Replace_whole_word.exe
+E:\C# 2\Homework. Text Files\Problem08. Replace whole word\obj\Debug\Problem08.Replace_whole_word.pdb

@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem23. SeriesOfLetters\bin\Debug\Problem23.SeriesOfLetters.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem23. SeriesOfLetters\bin\Debug\Problem23.SeriesOfLetters.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem23. SeriesOfLetters\bin\Debug\Problem23.SeriesOfLetters.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem23. SeriesOfLetters\obj\Debug\Problem23. SeriesOfLetters.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. StringAndTextProcessing\Problem23. SeriesOfLetters\obj\Debug\Problem23.SeriesOfLetters.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem23. SeriesOfLetters\obj\Debug\Problem23.SeriesOfLetters.pdb

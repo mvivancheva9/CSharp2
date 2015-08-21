@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Text Files\Problem06. Save sorted names\bin\Debug\Problem06.Save_sorted_names.exe.config
+E:\C# 2\Homework. Text Files\Problem06. Save sorted names\bin\Debug\Problem06.Save_sorted_names.exe
+E:\C# 2\Homework. Text Files\Problem06. Save sorted names\bin\Debug\Problem06.Save_sorted_names.pdb
+E:\C# 2\Homework. Text Files\Problem06. Save sorted names\obj\Debug\Problem06. Save sorted names.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Text Files\Problem06. Save sorted names\obj\Debug\Problem06.Save_sorted_names.exe
+E:\C# 2\Homework. Text Files\Problem06. Save sorted names\obj\Debug\Problem06.Save_sorted_names.pdb

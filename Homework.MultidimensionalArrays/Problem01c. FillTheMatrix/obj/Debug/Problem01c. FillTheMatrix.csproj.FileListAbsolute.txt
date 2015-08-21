@@ -1,0 +1,5 @@
+E:\C# 2\Homework.MultidimensionalArrays\Problem01c. FillTheMatrix\bin\Debug\Problem01c.FillTheMatrix.exe.config
+E:\C# 2\Homework.MultidimensionalArrays\Problem01c. FillTheMatrix\bin\Debug\Problem01c.FillTheMatrix.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem01c. FillTheMatrix\bin\Debug\Problem01c.FillTheMatrix.pdb
+E:\C# 2\Homework.MultidimensionalArrays\Problem01c. FillTheMatrix\obj\Debug\Problem01c.FillTheMatrix.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem01c. FillTheMatrix\obj\Debug\Problem01c.FillTheMatrix.pdb

@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Problem12. SubtractingPolynomials\bin\Debug\Problem12.SubtractingPolynomials.exe.config
+E:\C# 2\Homework. Methods\Problem12. SubtractingPolynomials\bin\Debug\Problem12.SubtractingPolynomials.exe
+E:\C# 2\Homework. Methods\Problem12. SubtractingPolynomials\bin\Debug\Problem12.SubtractingPolynomials.pdb
+E:\C# 2\Homework. Methods\Problem12. SubtractingPolynomials\obj\Debug\Problem12.SubtractingPolynomials.exe
+E:\C# 2\Homework. Methods\Problem12. SubtractingPolynomials\obj\Debug\Problem12.SubtractingPolynomials.pdb
+E:\C# 2\Homework. Methods\Problem12. SubtractingPolynomials\obj\Debug\Problem12. SubtractingPolynomials.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\C# 2\Homework. Text Files\Problem04. Compare text files\bin\Debug\Problem04.Compare_text_files.exe.config
+E:\C# 2\Homework. Text Files\Problem04. Compare text files\bin\Debug\Problem04.Compare_text_files.exe
+E:\C# 2\Homework. Text Files\Problem04. Compare text files\bin\Debug\Problem04.Compare_text_files.pdb
+E:\C# 2\Homework. Text Files\Problem04. Compare text files\obj\Debug\Problem04.Compare_text_files.exe
+E:\C# 2\Homework. Text Files\Problem04. Compare text files\obj\Debug\Problem04.Compare_text_files.pdb

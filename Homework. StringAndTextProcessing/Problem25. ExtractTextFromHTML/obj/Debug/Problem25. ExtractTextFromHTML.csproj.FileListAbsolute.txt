@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem25. ExtractTextFromHTML\bin\Debug\Problem25.ExtractTextFromHTML.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem25. ExtractTextFromHTML\bin\Debug\Problem25.ExtractTextFromHTML.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem25. ExtractTextFromHTML\bin\Debug\Problem25.ExtractTextFromHTML.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem25. ExtractTextFromHTML\obj\Debug\Problem25.ExtractTextFromHTML.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem25. ExtractTextFromHTML\obj\Debug\Problem25.ExtractTextFromHTML.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem25. ExtractTextFromHTML\obj\Debug\Problem25. ExtractTextFromHTML.csprojResolveAssemblyReference.cache

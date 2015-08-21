@@ -1,0 +1,6 @@
+E:\C# 2\Homework. UsingClassesAndObjects\Problem05. WorkDays\bin\Debug\Problem05.WorkDays.exe.config
+E:\C# 2\Homework. UsingClassesAndObjects\Problem05. WorkDays\bin\Debug\Problem05.WorkDays.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem05. WorkDays\bin\Debug\Problem05.WorkDays.pdb
+E:\C# 2\Homework. UsingClassesAndObjects\Problem05. WorkDays\obj\Debug\Problem05. WorkDays.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. UsingClassesAndObjects\Problem05. WorkDays\obj\Debug\Problem05.WorkDays.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem05. WorkDays\obj\Debug\Problem05.WorkDays.pdb

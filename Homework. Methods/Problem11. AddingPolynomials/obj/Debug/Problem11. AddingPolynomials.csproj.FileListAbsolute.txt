@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Problem11. AddingPolynomials\bin\Debug\Problem11.AddingPolynomials.exe.config
+E:\C# 2\Homework. Methods\Problem11. AddingPolynomials\bin\Debug\Problem11.AddingPolynomials.exe
+E:\C# 2\Homework. Methods\Problem11. AddingPolynomials\bin\Debug\Problem11.AddingPolynomials.pdb
+E:\C# 2\Homework. Methods\Problem11. AddingPolynomials\obj\Debug\Problem11. AddingPolynomials.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Methods\Problem11. AddingPolynomials\obj\Debug\Problem11.AddingPolynomials.exe
+E:\C# 2\Homework. Methods\Problem11. AddingPolynomials\obj\Debug\Problem11.AddingPolynomials.pdb

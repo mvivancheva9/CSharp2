@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem08. ExtractSentence\bin\Debug\Problem08.ExtractSentence.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem08. ExtractSentence\obj\Debug\Problem08. ExtractSentence.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. StringAndTextProcessing\Problem08. ExtractSentence\bin\Debug\Problem08.ExtractSentence.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem08. ExtractSentence\bin\Debug\Problem08.ExtractSentence.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem08. ExtractSentence\obj\Debug\Problem08.ExtractSentence.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem08. ExtractSentence\obj\Debug\Problem08.ExtractSentence.pdb

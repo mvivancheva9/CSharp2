@@ -1,0 +1,5 @@
+E:\C# 2\Homework. Methods\Problem03. EnglishDigit\bin\Debug\Problem03.EnglishDigit.exe.config
+E:\C# 2\Homework. Methods\Problem03. EnglishDigit\bin\Debug\Problem03.EnglishDigit.exe
+E:\C# 2\Homework. Methods\Problem03. EnglishDigit\bin\Debug\Problem03.EnglishDigit.pdb
+E:\C# 2\Homework. Methods\Problem03. EnglishDigit\obj\Debug\Problem03.EnglishDigit.exe
+E:\C# 2\Homework. Methods\Problem03. EnglishDigit\obj\Debug\Problem03.EnglishDigit.pdb

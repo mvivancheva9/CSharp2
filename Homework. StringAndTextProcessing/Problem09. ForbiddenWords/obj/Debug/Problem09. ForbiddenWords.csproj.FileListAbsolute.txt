@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem09. ForbiddenWords\bin\Debug\Problem09.ForbiddenWords.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem09. ForbiddenWords\bin\Debug\Problem09.ForbiddenWords.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem09. ForbiddenWords\bin\Debug\Problem09.ForbiddenWords.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem09. ForbiddenWords\obj\Debug\Problem09. ForbiddenWords.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. StringAndTextProcessing\Problem09. ForbiddenWords\obj\Debug\Problem09.ForbiddenWords.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem09. ForbiddenWords\obj\Debug\Problem09.ForbiddenWords.pdb

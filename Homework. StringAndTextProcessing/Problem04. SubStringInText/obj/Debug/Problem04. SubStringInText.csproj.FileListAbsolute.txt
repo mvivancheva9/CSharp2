@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem04. SubStringInText\bin\Debug\Problem04.SubStringInText.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem04. SubStringInText\bin\Debug\Problem04.SubStringInText.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem04. SubStringInText\bin\Debug\Problem04.SubStringInText.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem04. SubStringInText\obj\Debug\Problem04. SubStringInText.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. StringAndTextProcessing\Problem04. SubStringInText\obj\Debug\Problem04.SubStringInText.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem04. SubStringInText\obj\Debug\Problem04.SubStringInText.pdb

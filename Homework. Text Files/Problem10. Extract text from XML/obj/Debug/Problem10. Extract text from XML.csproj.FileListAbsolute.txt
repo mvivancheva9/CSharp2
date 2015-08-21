@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Text Files\Problem10. Extract text from XML\bin\Debug\Problem10.Extract_text_from_XML.exe.config
+E:\C# 2\Homework. Text Files\Problem10. Extract text from XML\bin\Debug\Problem10.Extract_text_from_XML.exe
+E:\C# 2\Homework. Text Files\Problem10. Extract text from XML\bin\Debug\Problem10.Extract_text_from_XML.pdb
+E:\C# 2\Homework. Text Files\Problem10. Extract text from XML\obj\Debug\Problem10. Extract text from XML.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Text Files\Problem10. Extract text from XML\obj\Debug\Problem10.Extract_text_from_XML.exe
+E:\C# 2\Homework. Text Files\Problem10. Extract text from XML\obj\Debug\Problem10.Extract_text_from_XML.pdb

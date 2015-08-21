@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem10. UnicodeCharacter\bin\Debug\Problem10.UnicodeCharacter.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem10. UnicodeCharacter\bin\Debug\Problem10.UnicodeCharacter.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem10. UnicodeCharacter\bin\Debug\Problem10.UnicodeCharacter.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem10. UnicodeCharacter\obj\Debug\Problem10.UnicodeCharacter.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem10. UnicodeCharacter\obj\Debug\Problem10.UnicodeCharacter.pdb

@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Text Files\Problem01. Odd lines\bin\Debug\Problem01.Odd_lines.exe.config
+E:\C# 2\Homework. Text Files\Problem01. Odd lines\bin\Debug\Problem01.Odd_lines.exe
+E:\C# 2\Homework. Text Files\Problem01. Odd lines\bin\Debug\Problem01.Odd_lines.pdb
+E:\C# 2\Homework. Text Files\Problem01. Odd lines\obj\Debug\Problem01. Odd lines.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Text Files\Problem01. Odd lines\obj\Debug\Problem01.Odd_lines.exe
+E:\C# 2\Homework. Text Files\Problem01. Odd lines\obj\Debug\Problem01.Odd_lines.pdb

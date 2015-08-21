@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Problem09. SortingArray\bin\Debug\Problem09.SortingArray.exe.config
+E:\C# 2\Homework. Methods\Problem09. SortingArray\bin\Debug\Problem09.SortingArray.exe
+E:\C# 2\Homework. Methods\Problem09. SortingArray\bin\Debug\Problem09.SortingArray.pdb
+E:\C# 2\Homework. Methods\Problem09. SortingArray\obj\Debug\Problem09. SortingArray.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Methods\Problem09. SortingArray\obj\Debug\Problem09.SortingArray.exe
+E:\C# 2\Homework. Methods\Problem09. SortingArray\obj\Debug\Problem09.SortingArray.pdb

@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem03. CorrectBrackets\bin\Debug\Problem03.CorrectBrackets.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem03. CorrectBrackets\bin\Debug\Problem03.CorrectBrackets.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem03. CorrectBrackets\bin\Debug\Problem03.CorrectBrackets.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem03. CorrectBrackets\obj\Debug\Problem03.CorrectBrackets.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem03. CorrectBrackets\obj\Debug\Problem03.CorrectBrackets.pdb

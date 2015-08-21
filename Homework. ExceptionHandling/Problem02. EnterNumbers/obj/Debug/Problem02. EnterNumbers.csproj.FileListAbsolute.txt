@@ -1,0 +1,5 @@
+E:\C# 2\Homework. ExceptionHandling\Problem02. EnterNumbers\bin\Debug\Problem02.EnterNumbers.exe.config
+E:\C# 2\Homework. ExceptionHandling\Problem02. EnterNumbers\bin\Debug\Problem02.EnterNumbers.exe
+E:\C# 2\Homework. ExceptionHandling\Problem02. EnterNumbers\bin\Debug\Problem02.EnterNumbers.pdb
+E:\C# 2\Homework. ExceptionHandling\Problem02. EnterNumbers\obj\Debug\Problem02.EnterNumbers.exe
+E:\C# 2\Homework. ExceptionHandling\Problem02. EnterNumbers\obj\Debug\Problem02.EnterNumbers.pdb

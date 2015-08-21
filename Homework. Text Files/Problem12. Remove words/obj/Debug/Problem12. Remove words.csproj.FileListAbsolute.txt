@@ -1,0 +1,5 @@
+E:\C# 2\Homework. Text Files\Problem12. Remove words\bin\Debug\Problem12.Remove_words.exe.config
+E:\C# 2\Homework. Text Files\Problem12. Remove words\bin\Debug\Problem12.Remove_words.exe
+E:\C# 2\Homework. Text Files\Problem12. Remove words\bin\Debug\Problem12.Remove_words.pdb
+E:\C# 2\Homework. Text Files\Problem12. Remove words\obj\Debug\Problem12.Remove_words.exe
+E:\C# 2\Homework. Text Files\Problem12. Remove words\obj\Debug\Problem12.Remove_words.pdb

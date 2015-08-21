@@ -1,0 +1,6 @@
+E:\C# 2\Homework. NumeralSystems\Problem08. BinaryToShort\bin\Debug\Problem08.BinaryToShort.exe.config
+E:\C# 2\Homework. NumeralSystems\Problem08. BinaryToShort\bin\Debug\Problem08.BinaryToShort.exe
+E:\C# 2\Homework. NumeralSystems\Problem08. BinaryToShort\bin\Debug\Problem08.BinaryToShort.pdb
+E:\C# 2\Homework. NumeralSystems\Problem08. BinaryToShort\obj\Debug\Problem08. BinaryToShort.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. NumeralSystems\Problem08. BinaryToShort\obj\Debug\Problem08.BinaryToShort.exe
+E:\C# 2\Homework. NumeralSystems\Problem08. BinaryToShort\obj\Debug\Problem08.BinaryToShort.pdb

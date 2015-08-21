@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem06. StringLength\bin\Debug\Problem06.StringLength.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem06. StringLength\bin\Debug\Problem06.StringLength.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem06. StringLength\bin\Debug\Problem06.StringLength.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem06. StringLength\obj\Debug\Problem06.StringLength.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem06. StringLength\obj\Debug\Problem06.StringLength.pdb

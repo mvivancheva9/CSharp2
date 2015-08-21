@@ -1,0 +1,5 @@
+E:\C# 2\Homework. Text Files\Problem03. Line numbers\bin\Debug\Problem03.Line_numbers.exe.config
+E:\C# 2\Homework. Text Files\Problem03. Line numbers\bin\Debug\Problem03.Line_numbers.exe
+E:\C# 2\Homework. Text Files\Problem03. Line numbers\bin\Debug\Problem03.Line_numbers.pdb
+E:\C# 2\Homework. Text Files\Problem03. Line numbers\obj\Debug\Problem03.Line_numbers.exe
+E:\C# 2\Homework. Text Files\Problem03. Line numbers\obj\Debug\Problem03.Line_numbers.pdb

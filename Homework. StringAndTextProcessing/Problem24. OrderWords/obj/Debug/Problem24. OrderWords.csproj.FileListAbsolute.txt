@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem24. OrderWords\bin\Debug\Problem24.OrderWords.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem24. OrderWords\bin\Debug\Problem24.OrderWords.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem24. OrderWords\bin\Debug\Problem24.OrderWords.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem24. OrderWords\obj\Debug\Problem24.OrderWords.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem24. OrderWords\obj\Debug\Problem24.OrderWords.pdb

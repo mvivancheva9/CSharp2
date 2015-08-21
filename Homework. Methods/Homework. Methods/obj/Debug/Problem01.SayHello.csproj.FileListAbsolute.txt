@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Homework. Methods\bin\Debug\Homework.Methods.exe.config
+E:\C# 2\Homework. Methods\Homework. Methods\bin\Debug\Homework.Methods.exe
+E:\C# 2\Homework. Methods\Homework. Methods\bin\Debug\Homework.Methods.pdb
+E:\C# 2\Homework. Methods\Homework. Methods\obj\Debug\Problem01.SayHello.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Methods\Homework. Methods\obj\Debug\Homework.Methods.exe
+E:\C# 2\Homework. Methods\Homework. Methods\obj\Debug\Homework.Methods.pdb

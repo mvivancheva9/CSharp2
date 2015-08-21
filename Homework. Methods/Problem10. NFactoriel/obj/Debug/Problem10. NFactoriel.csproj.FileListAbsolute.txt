@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Problem10. NFactoriel\bin\Debug\Problem10.NFactoriel.exe.config
+E:\C# 2\Homework. Methods\Problem10. NFactoriel\bin\Debug\Problem10.NFactoriel.exe
+E:\C# 2\Homework. Methods\Problem10. NFactoriel\bin\Debug\Problem10.NFactoriel.pdb
+E:\C# 2\Homework. Methods\Problem10. NFactoriel\obj\Debug\Problem10.NFactoriel.exe
+E:\C# 2\Homework. Methods\Problem10. NFactoriel\obj\Debug\Problem10.NFactoriel.pdb
+E:\C# 2\Homework. Methods\Problem10. NFactoriel\obj\Debug\Problem10. NFactoriel.csprojResolveAssemblyReference.cache

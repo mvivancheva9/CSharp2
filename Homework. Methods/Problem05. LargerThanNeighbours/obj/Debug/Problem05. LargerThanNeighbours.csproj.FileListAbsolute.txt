@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Problem05. LargerThanNeighbours\bin\Debug\Problem05.LargerThanNeighbours.exe.config
+E:\C# 2\Homework. Methods\Problem05. LargerThanNeighbours\bin\Debug\Problem05.LargerThanNeighbours.exe
+E:\C# 2\Homework. Methods\Problem05. LargerThanNeighbours\bin\Debug\Problem05.LargerThanNeighbours.pdb
+E:\C# 2\Homework. Methods\Problem05. LargerThanNeighbours\obj\Debug\Problem05. LargerThanNeighbours.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Methods\Problem05. LargerThanNeighbours\obj\Debug\Problem05.LargerThanNeighbours.exe
+E:\C# 2\Homework. Methods\Problem05. LargerThanNeighbours\obj\Debug\Problem05.LargerThanNeighbours.pdb

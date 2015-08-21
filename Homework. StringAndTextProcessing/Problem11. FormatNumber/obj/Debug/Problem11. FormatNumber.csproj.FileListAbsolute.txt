@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem11. FormatNumber\bin\Debug\Problem11.FormatNumber.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem11. FormatNumber\bin\Debug\Problem11.FormatNumber.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem11. FormatNumber\bin\Debug\Problem11.FormatNumber.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem11. FormatNumber\obj\Debug\Problem11.FormatNumber.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem11. FormatNumber\obj\Debug\Problem11.FormatNumber.pdb

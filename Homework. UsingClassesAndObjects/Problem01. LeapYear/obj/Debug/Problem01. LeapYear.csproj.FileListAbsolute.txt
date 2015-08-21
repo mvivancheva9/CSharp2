@@ -1,0 +1,6 @@
+E:\C# 2\Homework. UsingClassesAndObjects\Problem01. LeapYear\bin\Debug\Problem01.LeapYear.exe.config
+E:\C# 2\Homework. UsingClassesAndObjects\Problem01. LeapYear\bin\Debug\Problem01.LeapYear.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem01. LeapYear\bin\Debug\Problem01.LeapYear.pdb
+E:\C# 2\Homework. UsingClassesAndObjects\Problem01. LeapYear\obj\Debug\Problem01. LeapYear.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. UsingClassesAndObjects\Problem01. LeapYear\obj\Debug\Problem01.LeapYear.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem01. LeapYear\obj\Debug\Problem01.LeapYear.pdb

@@ -1,0 +1,6 @@
+E:\C# 2\Homework.MultidimensionalArrays\Homework.MultidimensionalArrays\bin\Debug\Homework.MultidimensionalArrays.exe.config
+E:\C# 2\Homework.MultidimensionalArrays\Homework.MultidimensionalArrays\bin\Debug\Homework.MultidimensionalArrays.exe
+E:\C# 2\Homework.MultidimensionalArrays\Homework.MultidimensionalArrays\bin\Debug\Homework.MultidimensionalArrays.pdb
+E:\C# 2\Homework.MultidimensionalArrays\Homework.MultidimensionalArrays\obj\Debug\Problem01a. FillTheMatrix.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework.MultidimensionalArrays\Homework.MultidimensionalArrays\obj\Debug\Homework.MultidimensionalArrays.exe
+E:\C# 2\Homework.MultidimensionalArrays\Homework.MultidimensionalArrays\obj\Debug\Homework.MultidimensionalArrays.pdb

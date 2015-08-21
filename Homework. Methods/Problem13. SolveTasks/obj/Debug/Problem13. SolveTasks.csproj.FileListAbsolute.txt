@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Problem13. SolveTasks\bin\Debug\Problem13.SolveTasks.exe.config
+E:\C# 2\Homework. Methods\Problem13. SolveTasks\bin\Debug\Problem13.SolveTasks.exe
+E:\C# 2\Homework. Methods\Problem13. SolveTasks\bin\Debug\Problem13.SolveTasks.pdb
+E:\C# 2\Homework. Methods\Problem13. SolveTasks\obj\Debug\Problem13.SolveTasks.exe
+E:\C# 2\Homework. Methods\Problem13. SolveTasks\obj\Debug\Problem13.SolveTasks.pdb
+E:\C# 2\Homework. Methods\Problem13. SolveTasks\obj\Debug\Problem13. SolveTasks.csprojResolveAssemblyReference.cache

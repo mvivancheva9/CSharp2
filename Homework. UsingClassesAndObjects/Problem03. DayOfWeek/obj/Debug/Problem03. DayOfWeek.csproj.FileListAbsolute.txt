@@ -1,0 +1,5 @@
+E:\C# 2\Homework. UsingClassesAndObjects\Problem03. DayOfWeek\bin\Debug\Problem03.DayOfWeek.exe.config
+E:\C# 2\Homework. UsingClassesAndObjects\Problem03. DayOfWeek\bin\Debug\Problem03.DayOfWeek.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem03. DayOfWeek\bin\Debug\Problem03.DayOfWeek.pdb
+E:\C# 2\Homework. UsingClassesAndObjects\Problem03. DayOfWeek\obj\Debug\Problem03.DayOfWeek.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem03. DayOfWeek\obj\Debug\Problem03.DayOfWeek.pdb

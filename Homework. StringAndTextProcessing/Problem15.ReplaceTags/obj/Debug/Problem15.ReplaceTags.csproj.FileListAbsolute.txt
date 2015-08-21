@@ -1,0 +1,1 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem15.ReplaceTags\bin\Debug\Problem15.ReplaceTags.exe.config

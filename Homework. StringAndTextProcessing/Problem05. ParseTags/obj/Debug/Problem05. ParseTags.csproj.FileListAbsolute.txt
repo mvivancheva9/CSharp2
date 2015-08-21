@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem05. ParseTags\bin\Debug\Problem05.ParseTags.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem05. ParseTags\bin\Debug\Problem05.ParseTags.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem05. ParseTags\bin\Debug\Problem05.ParseTags.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem05. ParseTags\obj\Debug\Problem05. ParseTags.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. StringAndTextProcessing\Problem05. ParseTags\obj\Debug\Problem05.ParseTags.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem05. ParseTags\obj\Debug\Problem05.ParseTags.pdb

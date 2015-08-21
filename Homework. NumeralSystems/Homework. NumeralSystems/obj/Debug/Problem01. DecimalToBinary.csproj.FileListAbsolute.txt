@@ -1,0 +1,6 @@
+E:\C# 2\Homework. NumeralSystems\Homework. NumeralSystems\bin\Debug\Homework.NumeralSystems.exe.config
+E:\C# 2\Homework. NumeralSystems\Homework. NumeralSystems\bin\Debug\Homework.NumeralSystems.exe
+E:\C# 2\Homework. NumeralSystems\Homework. NumeralSystems\bin\Debug\Homework.NumeralSystems.pdb
+E:\C# 2\Homework. NumeralSystems\Homework. NumeralSystems\obj\Debug\Problem01. DecimalToBinary.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. NumeralSystems\Homework. NumeralSystems\obj\Debug\Homework.NumeralSystems.exe
+E:\C# 2\Homework. NumeralSystems\Homework. NumeralSystems\obj\Debug\Homework.NumeralSystems.pdb

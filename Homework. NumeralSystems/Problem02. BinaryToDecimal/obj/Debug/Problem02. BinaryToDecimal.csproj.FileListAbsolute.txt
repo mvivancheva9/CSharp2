@@ -1,0 +1,5 @@
+E:\C# 2\Homework. NumeralSystems\Problem02. BinaryToDecimal\bin\Debug\Problem02.BinaryToDecimal.exe.config
+E:\C# 2\Homework. NumeralSystems\Problem02. BinaryToDecimal\bin\Debug\Problem02.BinaryToDecimal.exe
+E:\C# 2\Homework. NumeralSystems\Problem02. BinaryToDecimal\bin\Debug\Problem02.BinaryToDecimal.pdb
+E:\C# 2\Homework. NumeralSystems\Problem02. BinaryToDecimal\obj\Debug\Problem02.BinaryToDecimal.exe
+E:\C# 2\Homework. NumeralSystems\Problem02. BinaryToDecimal\obj\Debug\Problem02.BinaryToDecimal.pdb

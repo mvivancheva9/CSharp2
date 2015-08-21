@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Text Files\Problem09. Delete odd lines\bin\Debug\Problem09.Delete_odd_lines.exe.config
+E:\C# 2\Homework. Text Files\Problem09. Delete odd lines\bin\Debug\Problem09.Delete_odd_lines.exe
+E:\C# 2\Homework. Text Files\Problem09. Delete odd lines\bin\Debug\Problem09.Delete_odd_lines.pdb
+E:\C# 2\Homework. Text Files\Problem09. Delete odd lines\obj\Debug\Problem09.Delete_odd_lines.exe
+E:\C# 2\Homework. Text Files\Problem09. Delete odd lines\obj\Debug\Problem09.Delete_odd_lines.pdb
+E:\C# 2\Homework. Text Files\Problem09. Delete odd lines\obj\Debug\Problem09. Delete odd lines.csprojResolveAssemblyReference.cache

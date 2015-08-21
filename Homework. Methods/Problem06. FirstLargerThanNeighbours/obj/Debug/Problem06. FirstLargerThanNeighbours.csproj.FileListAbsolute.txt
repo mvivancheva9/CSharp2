@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Problem06. FirstLargerThanNeighbours\bin\Debug\Problem06.FirstLargerThanNeighbours.exe.config
+E:\C# 2\Homework. Methods\Problem06. FirstLargerThanNeighbours\bin\Debug\Problem06.FirstLargerThanNeighbours.exe
+E:\C# 2\Homework. Methods\Problem06. FirstLargerThanNeighbours\bin\Debug\Problem06.FirstLargerThanNeighbours.pdb
+E:\C# 2\Homework. Methods\Problem06. FirstLargerThanNeighbours\obj\Debug\Problem06. FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Methods\Problem06. FirstLargerThanNeighbours\obj\Debug\Problem06.FirstLargerThanNeighbours.exe
+E:\C# 2\Homework. Methods\Problem06. FirstLargerThanNeighbours\obj\Debug\Problem06.FirstLargerThanNeighbours.pdb

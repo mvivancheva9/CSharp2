@@ -1,0 +1,5 @@
+E:\C# 2\Homework. Text Files\Problem05. Maximal area sum\bin\Debug\Problem05.Maximal_area_sum.exe.config
+E:\C# 2\Homework. Text Files\Problem05. Maximal area sum\bin\Debug\Problem05.Maximal_area_sum.exe
+E:\C# 2\Homework. Text Files\Problem05. Maximal area sum\bin\Debug\Problem05.Maximal_area_sum.pdb
+E:\C# 2\Homework. Text Files\Problem05. Maximal area sum\obj\Debug\Problem05.Maximal_area_sum.exe
+E:\C# 2\Homework. Text Files\Problem05. Maximal area sum\obj\Debug\Problem05.Maximal_area_sum.pdb

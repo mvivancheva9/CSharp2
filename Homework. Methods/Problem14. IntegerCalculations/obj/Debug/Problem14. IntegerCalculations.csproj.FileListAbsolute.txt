@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Problem14. IntegerCalculations\bin\Debug\Problem14.IntegerCalculations.exe.config
+E:\C# 2\Homework. Methods\Problem14. IntegerCalculations\obj\Debug\Problem14. IntegerCalculations.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. Methods\Problem14. IntegerCalculations\bin\Debug\Problem14.IntegerCalculations.exe
+E:\C# 2\Homework. Methods\Problem14. IntegerCalculations\bin\Debug\Problem14.IntegerCalculations.pdb
+E:\C# 2\Homework. Methods\Problem14. IntegerCalculations\obj\Debug\Problem14.IntegerCalculations.exe
+E:\C# 2\Homework. Methods\Problem14. IntegerCalculations\obj\Debug\Problem14.IntegerCalculations.pdb

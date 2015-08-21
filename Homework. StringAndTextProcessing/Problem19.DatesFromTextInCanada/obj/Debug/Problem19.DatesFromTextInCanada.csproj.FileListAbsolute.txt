@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem19.DatesFromTextInCanada\bin\Debug\Problem19.DatesFromTextInCanada.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem19.DatesFromTextInCanada\bin\Debug\Problem19.DatesFromTextInCanada.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem19.DatesFromTextInCanada\bin\Debug\Problem19.DatesFromTextInCanada.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem19.DatesFromTextInCanada\obj\Debug\Problem19.DatesFromTextInCanada.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. StringAndTextProcessing\Problem19.DatesFromTextInCanada\obj\Debug\Problem19.DatesFromTextInCanada.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem19.DatesFromTextInCanada\obj\Debug\Problem19.DatesFromTextInCanada.pdb

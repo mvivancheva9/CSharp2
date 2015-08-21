@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem13. ReverseSentence\bin\Debug\Problem13.ReverseSentence.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem13. ReverseSentence\bin\Debug\Problem13.ReverseSentence.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem13. ReverseSentence\bin\Debug\Problem13.ReverseSentence.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem13. ReverseSentence\obj\Debug\Problem13.ReverseSentence.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem13. ReverseSentence\obj\Debug\Problem13.ReverseSentence.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem13. ReverseSentence\obj\Debug\Problem13. ReverseSentence.csprojResolveAssemblyReference.cache

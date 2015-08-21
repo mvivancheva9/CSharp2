@@ -1,0 +1,5 @@
+E:\C# 2\Homework. Methods\Problem07. ReverseNumber\bin\Debug\Problem07.ReverseNumber.exe.config
+E:\C# 2\Homework. Methods\Problem07. ReverseNumber\bin\Debug\Problem07.ReverseNumber.exe
+E:\C# 2\Homework. Methods\Problem07. ReverseNumber\bin\Debug\Problem07.ReverseNumber.pdb
+E:\C# 2\Homework. Methods\Problem07. ReverseNumber\obj\Debug\Problem07.ReverseNumber.exe
+E:\C# 2\Homework. Methods\Problem07. ReverseNumber\obj\Debug\Problem07.ReverseNumber.pdb

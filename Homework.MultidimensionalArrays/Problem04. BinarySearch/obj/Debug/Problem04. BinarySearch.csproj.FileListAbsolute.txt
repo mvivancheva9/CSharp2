@@ -1,0 +1,6 @@
+E:\C# 2\Homework.MultidimensionalArrays\Problem04. BinarySearch\bin\Debug\Problem04.BinarySearch.exe.config
+E:\C# 2\Homework.MultidimensionalArrays\Problem04. BinarySearch\bin\Debug\Problem04.BinarySearch.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem04. BinarySearch\bin\Debug\Problem04.BinarySearch.pdb
+E:\C# 2\Homework.MultidimensionalArrays\Problem04. BinarySearch\obj\Debug\Problem04. BinarySearch.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework.MultidimensionalArrays\Problem04. BinarySearch\obj\Debug\Problem04.BinarySearch.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem04. BinarySearch\obj\Debug\Problem04.BinarySearch.pdb

@@ -1,0 +1,6 @@
+E:\C# 2\Homework.MultidimensionalArrays\Problem05. SortBy StringLength\bin\Debug\Problem05.SortBy_StringLength.exe.config
+E:\C# 2\Homework.MultidimensionalArrays\Problem05. SortBy StringLength\obj\Debug\Problem05. SortBy StringLength.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework.MultidimensionalArrays\Problem05. SortBy StringLength\bin\Debug\Problem05.SortBy_StringLength.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem05. SortBy StringLength\bin\Debug\Problem05.SortBy_StringLength.pdb
+E:\C# 2\Homework.MultidimensionalArrays\Problem05. SortBy StringLength\obj\Debug\Problem05.SortBy_StringLength.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem05. SortBy StringLength\obj\Debug\Problem05.SortBy_StringLength.pdb

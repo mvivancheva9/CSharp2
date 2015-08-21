@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem17. DateInBulgarian\bin\Debug\Problem17.DateInBulgarian.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem17. DateInBulgarian\bin\Debug\Problem17.DateInBulgarian.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem17. DateInBulgarian\bin\Debug\Problem17.DateInBulgarian.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem17. DateInBulgarian\obj\Debug\Problem17.DateInBulgarian.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem17. DateInBulgarian\obj\Debug\Problem17.DateInBulgarian.pdb

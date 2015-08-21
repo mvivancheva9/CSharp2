@@ -1,0 +1,5 @@
+E:\C# 2\Homework. Methods\Problem02.GetLargestNumber\bin\Debug\Problem02.GetLargestNumber.exe.config
+E:\C# 2\Homework. Methods\Problem02.GetLargestNumber\bin\Debug\Problem02.GetLargestNumber.exe
+E:\C# 2\Homework. Methods\Problem02.GetLargestNumber\bin\Debug\Problem02.GetLargestNumber.pdb
+E:\C# 2\Homework. Methods\Problem02.GetLargestNumber\obj\Debug\Problem02.GetLargestNumber.exe
+E:\C# 2\Homework. Methods\Problem02.GetLargestNumber\obj\Debug\Problem02.GetLargestNumber.pdb

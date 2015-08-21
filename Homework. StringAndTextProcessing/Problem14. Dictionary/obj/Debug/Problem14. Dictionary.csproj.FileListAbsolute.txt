@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem14. Dictionary\bin\Debug\Problem14.Dictionary.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem14. Dictionary\bin\Debug\Problem14.Dictionary.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem14. Dictionary\bin\Debug\Problem14.Dictionary.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem14. Dictionary\obj\Debug\Problem14.Dictionary.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem14. Dictionary\obj\Debug\Problem14.Dictionary.pdb

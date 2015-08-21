@@ -1,0 +1,6 @@
+E:\C# 2\Homework.MultidimensionalArrays\Problem01b. FillTheMatrix\bin\Debug\Problem01b.FillTheMatrix.exe.config
+E:\C# 2\Homework.MultidimensionalArrays\Problem01b. FillTheMatrix\bin\Debug\Problem01b.FillTheMatrix.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem01b. FillTheMatrix\bin\Debug\Problem01b.FillTheMatrix.pdb
+E:\C# 2\Homework.MultidimensionalArrays\Problem01b. FillTheMatrix\obj\Debug\Problem01b.FillTheMatrix.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem01b. FillTheMatrix\obj\Debug\Problem01b.FillTheMatrix.pdb
+E:\C# 2\Homework.MultidimensionalArrays\Problem01b. FillTheMatrix\obj\Debug\Problem01b. FillTheMatrix.csprojResolveAssemblyReference.cache

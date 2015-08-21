@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem22. WordsCount\bin\Debug\Problem22.WordsCount.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem22. WordsCount\bin\Debug\Problem22.WordsCount.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem22. WordsCount\bin\Debug\Problem22.WordsCount.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem22. WordsCount\obj\Debug\Problem22.WordsCount.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem22. WordsCount\obj\Debug\Problem22.WordsCount.pdb

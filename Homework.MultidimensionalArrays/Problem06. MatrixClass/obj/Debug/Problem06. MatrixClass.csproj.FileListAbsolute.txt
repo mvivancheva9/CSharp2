@@ -1,0 +1,6 @@
+E:\C# 2\Homework.MultidimensionalArrays\Problem06. MatrixClass\bin\Debug\Problem06.MatrixClass.exe.config
+E:\C# 2\Homework.MultidimensionalArrays\Problem06. MatrixClass\bin\Debug\Problem06.MatrixClass.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem06. MatrixClass\bin\Debug\Problem06.MatrixClass.pdb
+E:\C# 2\Homework.MultidimensionalArrays\Problem06. MatrixClass\obj\Debug\Problem06. MatrixClass.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework.MultidimensionalArrays\Problem06. MatrixClass\obj\Debug\Problem06.MatrixClass.exe
+E:\C# 2\Homework.MultidimensionalArrays\Problem06. MatrixClass\obj\Debug\Problem06.MatrixClass.pdb

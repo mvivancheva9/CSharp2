@@ -1,0 +1,5 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem12. ParseURL\bin\Debug\Problem12.ParseURL.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem12. ParseURL\bin\Debug\Problem12.ParseURL.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem12. ParseURL\bin\Debug\Problem12.ParseURL.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem12. ParseURL\obj\Debug\Problem12.ParseURL.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem12. ParseURL\obj\Debug\Problem12.ParseURL.pdb

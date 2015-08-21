@@ -1,0 +1,6 @@
+E:\C# 2\Homework. Methods\Problem08. NumberAsArray\bin\Debug\Problem08.NumberAsArray.exe.config
+E:\C# 2\Homework. Methods\Problem08. NumberAsArray\bin\Debug\Problem08.NumberAsArray.exe
+E:\C# 2\Homework. Methods\Problem08. NumberAsArray\bin\Debug\Problem08.NumberAsArray.pdb
+E:\C# 2\Homework. Methods\Problem08. NumberAsArray\obj\Debug\Problem08.NumberAsArray.exe
+E:\C# 2\Homework. Methods\Problem08. NumberAsArray\obj\Debug\Problem08.NumberAsArray.pdb
+E:\C# 2\Homework. Methods\Problem08. NumberAsArray\obj\Debug\Problem08. NumberAsArray.csprojResolveAssemblyReference.cache

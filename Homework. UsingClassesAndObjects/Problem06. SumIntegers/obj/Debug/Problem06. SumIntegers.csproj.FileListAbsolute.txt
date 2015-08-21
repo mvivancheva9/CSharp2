@@ -1,0 +1,5 @@
+E:\C# 2\Homework. UsingClassesAndObjects\Problem06. SumIntegers\bin\Debug\Problem06.SumIntegers.exe.config
+E:\C# 2\Homework. UsingClassesAndObjects\Problem06. SumIntegers\bin\Debug\Problem06.SumIntegers.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem06. SumIntegers\bin\Debug\Problem06.SumIntegers.pdb
+E:\C# 2\Homework. UsingClassesAndObjects\Problem06. SumIntegers\obj\Debug\Problem06.SumIntegers.exe
+E:\C# 2\Homework. UsingClassesAndObjects\Problem06. SumIntegers\obj\Debug\Problem06.SumIntegers.pdb

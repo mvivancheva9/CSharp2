@@ -1,0 +1,6 @@
+E:\C# 2\Homework. StringAndTextProcessing\Problem21. LettersCount\bin\Debug\Problem21.LettersCount.exe.config
+E:\C# 2\Homework. StringAndTextProcessing\Problem21. LettersCount\bin\Debug\Problem21.LettersCount.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem21. LettersCount\bin\Debug\Problem21.LettersCount.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem21. LettersCount\obj\Debug\Problem21.LettersCount.exe
+E:\C# 2\Homework. StringAndTextProcessing\Problem21. LettersCount\obj\Debug\Problem21.LettersCount.pdb
+E:\C# 2\Homework. StringAndTextProcessing\Problem21. LettersCount\obj\Debug\Problem21. LettersCount.csprojResolveAssemblyReference.cache

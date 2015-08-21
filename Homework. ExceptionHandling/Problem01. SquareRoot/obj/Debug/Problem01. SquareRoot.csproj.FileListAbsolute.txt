@@ -1,0 +1,6 @@
+E:\C# 2\Homework. ExceptionHandling\Problem01. SquareRoot\bin\Debug\Problem01.SquareRoot.exe.config
+E:\C# 2\Homework. ExceptionHandling\Problem01. SquareRoot\bin\Debug\Problem01.SquareRoot.exe
+E:\C# 2\Homework. ExceptionHandling\Problem01. SquareRoot\bin\Debug\Problem01.SquareRoot.pdb
+E:\C# 2\Homework. ExceptionHandling\Problem01. SquareRoot\obj\Debug\Problem01. SquareRoot.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. ExceptionHandling\Problem01. SquareRoot\obj\Debug\Problem01.SquareRoot.exe
+E:\C# 2\Homework. ExceptionHandling\Problem01. SquareRoot\obj\Debug\Problem01.SquareRoot.pdb

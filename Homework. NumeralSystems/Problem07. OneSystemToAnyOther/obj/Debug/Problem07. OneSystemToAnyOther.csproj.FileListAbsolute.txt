@@ -1,0 +1,6 @@
+E:\C# 2\Homework. NumeralSystems\Problem07. OneSystemToAnyOther\bin\Debug\Problem07.OneSystemToAnyOther.exe.config
+E:\C# 2\Homework. NumeralSystems\Problem07. OneSystemToAnyOther\bin\Debug\Problem07.OneSystemToAnyOther.exe
+E:\C# 2\Homework. NumeralSystems\Problem07. OneSystemToAnyOther\bin\Debug\Problem07.OneSystemToAnyOther.pdb
+E:\C# 2\Homework. NumeralSystems\Problem07. OneSystemToAnyOther\obj\Debug\Problem07. OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+E:\C# 2\Homework. NumeralSystems\Problem07. OneSystemToAnyOther\obj\Debug\Problem07.OneSystemToAnyOther.exe
+E:\C# 2\Homework. NumeralSystems\Problem07. OneSystemToAnyOther\obj\Debug\Problem07.OneSystemToAnyOther.pdb
